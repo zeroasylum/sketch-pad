@@ -1,0 +1,11 @@
+.container li {
+	border: 1px black solid;
+	display: inline-block;
+	height: 30px;
+	width: 30px;
+	margin: 1px;
+}
+.container ul {
+	margin: 0px;
+	padding: 0px;
+}
